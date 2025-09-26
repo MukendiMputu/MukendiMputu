@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Mukendi Mputu
 - 👀 I’m interested in Software Engineering Technologies
-- 🌱 I’m currently enrolled in the computer science graduate program at the TU Dortmund
+- 🌱 I’m currently working as an IT systems Administrator at BARTEC Group
 - 💞️ I’m looking to collaborate on software projects
 
 <!---
